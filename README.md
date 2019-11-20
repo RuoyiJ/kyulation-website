@@ -1,2 +1,2 @@
-# web-art-gallery
-A website to display art
+# Kyulation
+A website to for kyulation to upload their manga
